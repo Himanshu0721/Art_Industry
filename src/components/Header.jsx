@@ -75,7 +75,7 @@ const Header = () => {
       <div className="container mx-auto px-16 py-4">
         <div className="flex justify-between items-center">
           <div>
-            <h1 ref={logoRef} className="text-3xl font-bold text-blue-900"> Art Research</h1>
+            <h1 ref={logoRef} className="text-3xl font-bold text-blue-900"> Art Industry</h1>
             <p className="text-gray-600">Exploring Creativity, Shaping Cultural Futures</p>
           </div>
 
