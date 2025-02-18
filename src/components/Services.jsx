@@ -4,7 +4,7 @@ import ServiceCard from './ServiceCard';
 
 const services = [
   {
-    title: "TEN Art",
+    title: " Ten Artist Aggregator",
     description: "Art research expands creativity, drives cultural innovation, inspires collaboration, and reveals the beauty of diverse perspectives.",
     icon: "🎨",
     delay: 0.2,
